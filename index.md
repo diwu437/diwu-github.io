@@ -1,10 +1,10 @@
-## Portfolio
+## Project Portfolio
 
 ---
 
-### Category Name 1 
+### R project
 
-[Project 1 Title](/sample_page)
+[Pricing Optimization for Car Dealership](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
